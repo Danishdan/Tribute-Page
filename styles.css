@@ -1,0 +1,10 @@
+body {
+	background-color: tomato;
+}
+
+h1 {
+	font-size: 64px;
+	color: white;
+	text-align: center;
+	padding: 10%;
+}
